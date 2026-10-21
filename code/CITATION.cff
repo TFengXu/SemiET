@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SemiET: Semi-supervised fundus enhancement with efficient Transformers"
+type: software
+authors:
+  - family-names: Qiu
+    given-names: Jiaming
+    affiliation: "Harbin Institute of Technology, Harbin 150001, China"
+  - family-names: Xu
+    given-names: Feng
+    affiliation: "Department of Electronic and Electrical Engineering, Southern University of Science and Technology, Shenzhen 518055, China"
+  - family-names: Ren
+    given-names: Yiwei
+    affiliation: "Department of Electronic and Electrical Engineering, Southern University of Science and Technology, Shenzhen 518055, China"
+  - family-names: Cheng
+    given-names: Pujin
+    affiliation: "Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong, China"
+  - family-names: Tang
+    given-names: Xiaoying
+    affiliation: "Department of Electronic and Electrical Engineering, Southern University of Science and Technology, Shenzhen 518055, China; Jiaxing Research Institute, Southern University of Science and Technology, Jiaxing 314001, China"
+year: 2026
+journal: "Biomedical Signal Processing and Control"
+article-number: "BSPC 111659"
+license: MIT

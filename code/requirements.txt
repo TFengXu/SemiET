@@ -1,0 +1,17 @@
+# Tested with Python 3.8, PyTorch 1.8.1 + CUDA 10.2.
+# Newer PyTorch versions should also work; adjust the CUDA wheel to your driver.
+torch>=1.8.1
+torchvision>=0.9.1
+numpy>=1.19
+opencv-python>=4.5
+scikit-image>=0.18
+kornia>=0.4.1
+adabelief_pytorch>=0.1.0
+bunch>=1.0.1
+matplotlib>=3.3
+tqdm>=4.50
+PyYAML>=5.4
+simplejson>=3.17
+fvcore>=0.1.1
+lpips>=0.1.4
+einops>=0.3
